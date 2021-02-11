@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola Hola 👋
 
-<!--
-**geomario/geomario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mario, Software Developer & Data Scientist at @GeoLegalTech (best job ever). I previously was pasionated about numerical simulations and geothermal systems.
+I worked for some years as a associate reseacher at RWTH in Germany. 
 
-Here are some ideas to get you started:
+- 🐍 I’m an avid Python Developer
+- 🔭 I’m currently working on GeoLegalTech
+- 🌱 I’m currently learning scrapy & bs4
+- 👯 I’m looking to collaborate on Data Science & Software Development
+- 📫 How to reach me: mr@geolegaltech.com
+- ⚡ Fun fact: When I was a kid, I could not say "Champignon"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---> visit www.geomario.com
+
