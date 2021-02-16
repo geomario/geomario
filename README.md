@@ -1,6 +1,6 @@
 ### Hola Hola 👋
 
-I am Mario, Software Developer & Data Scientist at @GeoLegalTech (best job ever). I previously was pasionated about numerical simulations and geothermal systems.
+I am Mario, Software Developer & Data Scientist at @GeoLegalTech. I previously was pasionated about numerical simulations and geothermal systems.
 I worked for some years as a associate reseacher at RWTH in Germany. 
 
 - 🐍 I’m an avid Python Developer
