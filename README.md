@@ -5,7 +5,6 @@ I worked for some years as a associate reseacher at RWTH in Germany.
 
 - 🐍 I’m an avid Python Developer
 - 🔭 Did I said that I’m currently working on GeoLegalTech?
-- 🌱 I’m currently learning scrapy & bs4
 - 📚 I share tutorials in Medium and YouTube
 - 👯 I’m looking to collaborate on Data Science & Software Development
 - 📫 How to reach me: mr@geolegaltech.com
