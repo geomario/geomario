@@ -10,3 +10,4 @@ I worked for some years as a associate reseacher at RWTH in Germany.
 
 ---> visit www.geomario.com
 
+![snake gif](https://github.com/humbertodutra/humbertodutra/blob/output/github-contribution-grid-snake.svg)
