@@ -1,12 +1,18 @@
 ### Hola 👋
 
-I am Mario, Software Developer & Data Scientist. I previously was pasionated about numerical simulations and geothermal systems.
-I worked for some years as a associate reseacher at RWTH in Germany. 
+I am Mario, a Senior Software Developer & Data Scientist. My diverse background encompasses roles as a Geoscientist, Full Stack & Data Scientist developer.
 
 - 🐍 I’m an avid Python Developer.
-- 👯 I’m looking to collaborate on Data Science & Software Development.
+- 👯 I want to collaborate on Data Science, Machine Learning & Software Development.
 - 📫 How to reach me: marm1984@gmail.com
-- ⚡ Fun fact: When I was a kid, I could not say "Champignon" 
+- ⚡ Fun fact: When I was a kid, I could not say "Champignon"
+
+  ## Experience
+- E.ON Energy Research -> Associate Researcher (Numerical Simulation)
+- GeolegalTech         -> Senior Software Developer & Data Scientist
+- Finerio Connect      -> Senior Software Developer & Machine Learning Engineer
+- Brain Research       -> Senior Software Developer, Data and Machine Learning
+- GESIS                -> Software Research Engineer
 
 ---> visit www.geomario.com 
 
