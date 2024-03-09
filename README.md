@@ -1,18 +1,17 @@
 ### Hola 👋
 
-I am Mario, a Senior Software Developer & Data Scientist. My diverse background encompasses roles as a Geoscientist, Full Stack & Data Scientist developer.
+I am Mario, a Senior Software Developer and Data Scientist. My diverse background encompasses roles as a Geoscientist, Full-Stack Developer, Machine Learning Engineer and Data Scientist.
 
 - 🐍 I’m an avid Python Developer.
 - 👯 I want to collaborate on Data Science, Machine Learning & Software Development.
 - 📫 How to reach me: marm1984@gmail.com
-- ⚡ Fun fact: When I was a kid, I could not say "Champignon"
 
-  ## Experience
-- E.ON Energy Research -> Associate Researcher (Numerical Simulation)
-- GeolegalTech         -> Senior Software Developer & Data Scientist
-- Finerio Connect      -> Senior Software Developer & Machine Learning Engineer
-- Brain Research       -> Senior Software Developer, Data and Machine Learning
-- GESIS                -> Software Research Engineer
+## Experience 🏢
+- E.ON Energy Research -> Associate Researcher in Geophysics ( Numerical Simulation).
+- GeolegalTech         -> Senior Software Developer & Data Scientist.
+- Finerio Connect      -> Senior Software Developer & Machine Learning Engineer.
+- GESIS                -> Software Research Engineer & Data Architect.
+- Brain Research       -> Senior Software Developer, Data and Machine Learning.
 
 ---> visit www.geomario.com 
 
