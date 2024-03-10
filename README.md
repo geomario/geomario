@@ -13,6 +13,7 @@ I am Mario, a Senior Software Developer and Data Scientist. My diverse backgroun
 - [GESIS](https://www.gesis.org/en/institute/staff/person/mario.ramirez) -> Software Research Engineer & Data Architect.
 - [Brain Research](https://brain-research.com/) -> Senior Software Developer, Data and Machine Learning.
 
+### More about me
 ---> visit www.geomario.com 
 
 
