@@ -11,7 +11,7 @@ I am Mario, a Senior Software Developer, MLE & Data Scientist. My diverse backgr
 - [GeolegalTech](https://geolegaltech.de/) -> Senior Software Developer & Data Scientist.
 - [Finerio Connect](https://finerioconnect.com/en) -> Senior Software Developer & Machine Learning Engineer.
 - [GESIS](https://www.gesis.org/en/institute/staff/person/mario.ramirez) -> Software Research Engineer & Data Architect.
-- [Brain Research](https://brain-research.com/) -> Senior Software Developer, Data and Machine Learning.
+- [Brain Research](https://brain-research.com/) -> Senior Software Engineer, Data and Machine Learning.
 
 ## More about me 🌐 ?
 ---> visit www.geomario.com 
