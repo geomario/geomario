@@ -13,6 +13,10 @@ I am Mario, a Senior Software Developer, MLE & Data Scientist. My diverse backgr
 - [GESIS](https://www.gesis.org/en/institute/staff/person/mario.ramirez) -> Software Research Engineer & Data Architect.
 - [Brain Research](https://brain-research.com/) -> Senior Software Engineer, Data and Machine Learning.
 
+## Spin-Off 🎋
+I am building a spin-off of my research.
+- [PriceRe](https://preisre.com/) -> My spin-off of my research comprises digital consumption.
+
 ## More about me 🌐 ?
 ---> visit www.geomario.com 
 
