@@ -1,6 +1,6 @@
 ### Hola 👋
 
-I am Mario, a Senior Software Developer, MLE & Data Scientist. My diverse background encompasses roles as a Geoscientist, Full-Stack Developer, Machine Learning Engineer and Data Scientist.
+I am Mario, a Senior Software Developer, MLE & Data Scientist. My diverse background encompasses roles as a Geoscientist, Full-Stack Developer, Machine Learning Engineer, Data Scientist and recently as Software Research Engineer.
 
 - 🐍 I’m an avid Python Developer.
 - 👯 I want to collaborate on Data Science, Machine Learning & Software Development.
